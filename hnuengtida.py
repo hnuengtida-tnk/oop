@@ -1,0 +1,7 @@
+print("hello python")
+print("Hnuengtida Aintarachai")
+print("satang")
+print("19")
+print("22")
+print("67319010060")
+print("chat with my friends")
