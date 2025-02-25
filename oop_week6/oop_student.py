@@ -12,7 +12,7 @@ class Student:
             print(f"ชื่อสกุล : {self.name}, ชื่อเล่น : {self.nickname}, คะแนน : {self.score} : คุณผ่าน")
         else :
             print(f"ชื่อสกุล : {self.name}, ชื่อเล่น : {self.nickname}, คะแนน : {self.score} : คุณตก")
-             print("--------------------สอบแก้---------------------------")
+            print("--------------------สอบแก้---------------------------")
         if self.editscore >= 5:
             print(f"ชื่อ-นามสกุล : {self.name} , ชื่อเล่น : {self.nikename}, คะแนน : {self.editscore } : คุณผ่าน")
         else :
